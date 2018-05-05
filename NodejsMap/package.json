@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-map",
+  "version": "0.0.0",
+  "description": "NodejsMap",
+  "main": "server.js",
+  "author": {
+    "name": "korisnik"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.4"
+  }
+}
